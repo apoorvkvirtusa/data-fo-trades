@@ -1,0 +1,3 @@
+Symbol,StartTime,EndTime,"Trades Timestamp","Trades Quantity","Trades Price","Trades Exchange","Trades MarketCenter","Trades SubMarketCenter","Trades TRDI","Trades CanceledIndicator","Trades DOTT","Trades ITY","Trades MSN","Trades OMSN",Outcome,Message,Identity,Delay,
+NDAQ,"09/11/2008 16:00:00.000","09/11/2008 16:30:00.000","09/11/2008 16:24:20.380",15000,30.66,"Industry Regulatory Authority",D,Q,"@ Z",,T,Q,2947932,2053495,Success,,Cookie,0.3743976,
+NDAQ,"09/11/2008 16:00:00.000","09/11/2008 16:30:00.000",,,,,,,,,,,,,Success,,Cookie,0.3743976,
